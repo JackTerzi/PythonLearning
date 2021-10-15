@@ -14,4 +14,8 @@ Multiple lines like this
 '''
 a = (a + a -
      -a)
-print(a)
+
+#another way to assign varriables
+a, b, c = 1, 2, 3
+
+print(a,b,c)
